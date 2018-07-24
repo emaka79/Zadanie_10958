@@ -1,0 +1,19 @@
+/*
+*{
+    color: red;
+}*/
+a[href="#About us"]{
+    color: brown;
+}
+
+a[href="#Skills"]{
+    color: blue;
+}
+
+a[href="#Portfolio"]{
+    color: yellow;
+}
+
+a[href="#Contact"]{
+    color: green;
+}
