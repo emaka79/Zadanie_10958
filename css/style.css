@@ -67,3 +67,8 @@ div[name="Portfolio 3"]{
     display: block;
     border: 5px solid grey;
 }
+
+input[type="submit"]{
+    background-color: yellow;
+    color: brown;    
+}
