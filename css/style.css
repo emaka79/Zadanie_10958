@@ -17,3 +17,7 @@ a[href="#Portfolio"]{
 a[href="#Contact"]{
     color: green;
 }
+
+section[name="o nas"]{
+    background-color: yellow;
+}
