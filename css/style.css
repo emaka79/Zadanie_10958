@@ -46,3 +46,24 @@ div[name="kwadrat 4"]{
      color: green;
      background-color: green;
 }
+
+div[name="Portfolio 1"]{
+    color: white;
+    background-color: white;
+    display: block;
+    border: 5px solid blue;
+}
+
+div[name="Portfolio 2"]{
+    color: white;
+    background-color: white;
+    display: block;
+    border: 5px solid green;
+}
+
+div[name="Portfolio 3"]{
+    color: white;
+    background-color: white;
+    display: block;
+    border: 5px solid grey;
+}
